@@ -11,7 +11,7 @@ If you are using some excellent (**free**) softwares related to topics below, PR
 
 Win: ![win](logos/win.svg)  Mac: ![mac](logos/mac.svg)  Linux: ![linux](logos/linux.svg)  Android: ![android](logos/android.svg)  Web: ![web](logos/web.svg)
 
-Source of logos: https://www.flaticon.com/
+Source of logos: [fontawesome](https://fontawesome.com/)
 
 ---
 
