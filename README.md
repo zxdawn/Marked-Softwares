@@ -19,6 +19,8 @@ Source of logos: [fontawesome](https://fontawesome.com/)
   * [Advanced System care](https://www.iobit.com/en/advancedsystemcarefree.php)  ![win](logos/win.svg)
   * [Iobit Uninstaller](https://www.iobit.com/en/advanceduninstaller.php) ![win](logos/win.svg)
   * [ccleaner](https://www.ccleaner.com/) ![win](logos/win.svg)
+* __Terminal__
+  - [terminus](https://eugeny.github.io/terminus/)  ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)
 * __Mail__
   * [Gmail](https://mail.google.com) ![web](logos/web.svg)
   * [Thunderbird](https://www.thunderbird.net/en-US/) ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)
