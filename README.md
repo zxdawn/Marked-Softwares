@@ -49,6 +49,7 @@ Source of logos: [fontawesome](https://fontawesome.com/)
   * [Typora](https://typora.io/) ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)
   * [Mark Text](https://github.com/marktext/marktext)  ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)
   * [TeXstudio](https://www.texstudio.org/)   ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)
+  * [Meld](https://meldmerge.org/)   ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)
 * __Photo__
   * [GIMP](https://www.gimp.org/) ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)
   * [Inkscape](https://inkscape.org/)   ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)
