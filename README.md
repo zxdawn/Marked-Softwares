@@ -26,6 +26,7 @@ Source of logos: [fontawesome](https://fontawesome.com/)
   * [Waterfox](https://www.waterfoxproject.org/en-US/)   ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)![android](logos/android.svg)
   * [Tor Browser](https://www.torproject.org/)  ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)![android](logos/android.svg)
 * __PDF__
+  
   * [Okular](https://okular.kde.org/) ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)
 * __Converter__
   * [123APPS](https://123apps.com/) ![web](logos/web.svg)
@@ -42,9 +43,14 @@ Source of logos: [fontawesome](https://fontawesome.com/)
 * __LaTeX__
   - [Texlive](https://www.tug.org/texlive/) ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)
   - [Overleaf](https://www.overleaf.com/) ![web](logos/web.svg)
+  - [Mathpix Snip](https://mathpix.com/) ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)![android](logos/android.svg)
 * __Reference Management__
   * [Zotero](https://www.zotero.org/)   ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)
+  
+    Tutorial: [The Best Reference Manager Setup (Zotero + ZotFile + Cloud Storage)](http://dx.doi.org/10.13140/RG.2.2.33585.48488/3)
+  
   * [Citavi](https://www.citavi.com/en)   ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)
+  
   * [Mendeley](https://www.mendeley.com/)   ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)![android](logos/android.svg)
 * __Mind Mapping__
   - [GitMind](https://gitmind.com/) ![web](logos/web.svg)
@@ -58,6 +64,7 @@ Source of logos: [fontawesome](https://fontawesome.com/)
   * [MEGA](https://mega.nz/sync)  ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)![android](logos/android.svg) ![web](logos/web.svg)
   * [Nutstore](https://www.jianguoyun.com/) ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)![android](logos/android.svg) ![web](logos/web.svg)
 * __RSS__
+  
   * [Inoreader](https://www.inoreader.com/)  ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)![android](logos/android.svg)![web](logos/web.svg)
 * __English Paper/eBook__
   - [Sci-Hub](https://sci-hub.tech/) ![web](logos/web.svg)
@@ -79,6 +86,7 @@ Source of logos: [fontawesome](https://fontawesome.com/)
   * [AnyDesk](https://anydesk.com/)  ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg) ![android](logos/android.svg)
   * [SunLogin](https://sunlogin.oray.com/) ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg) ![android](logos/android.svg)
 * __Cooperation__
+  
   - [Slack](https://slack.com/) ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)![android](logos/android.svg) ![web](logos/web.svg)
 * __Photo__
   * [GIMP](https://www.gimp.org/) ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)
@@ -101,13 +109,17 @@ Source of logos: [fontawesome](https://fontawesome.com/)
   * [Ardour](https://ardour.org/)   ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)
   * [AIMP](https://www.aimp.ru/) ![win](logos/win.svg)![android](logos/android.svg)
 * __Terminal__
+  
   - [terminus](https://eugeny.github.io/terminus/)  ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)
 * __Mail__
   * [Gmail](https://mail.google.com) ![web](logos/web.svg)
   * [Thunderbird](https://www.thunderbird.net/en-US/) ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)
 * __Map__
+  
   * [Google Earth](https://www.google.com/earth/versions/)   ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)![web](logos/web.svg)
 * __Git__
+  
   * [GitKraken](https://www.gitkraken.com/)  ![win](logos/win.svg)![mac](logos/mac.svg)![linux](logos/linux.svg)
 * __SSH__
+  
   * [MobaXterm](https://mobaxterm.mobatek.net/)  ![win](logos/win.svg)
